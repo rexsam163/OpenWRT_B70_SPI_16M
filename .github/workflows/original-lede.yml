@@ -22,7 +22,7 @@ on:
     types: started
 
 env:
-  REPO_URL: https://gitee.com/lyliyue/openwrt
+  REPO_URL: https://github.com/gl-inet/lede-17.01
   REPO_BRANCH: lede-17.01
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
