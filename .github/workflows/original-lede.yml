@@ -22,8 +22,8 @@ on:
     types: started
 
 env:
-  REPO_URL: https://github.com/Lienol/openwrt
-  REPO_BRANCH: 19.07
+  REPO_URL: https://github.com/syb999/lede-17.01.2
+  REPO_BRANCH: lede-17.01.2
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_FEED: diy_feed.sh
